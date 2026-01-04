@@ -1,0 +1,17 @@
+{
+  "domain": "agriot",
+  "name": "Agriot",
+  "version": "0.1.0",
+  "config_flow": true,
+  "integration_type": "hub",
+  "requirements": [],
+  "codeowners": [
+    "@hypertheasis"
+  ],
+  "iot_class": "cloud_polling",
+  "platforms": [
+    "sensor"
+  ],
+  "documentation": "https://github.com/hypertheasis/agriot",
+  "issue_tracker": "https://github.com/hypertheasis/agriot/issues"
+}
